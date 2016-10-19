@@ -1,0 +1,831 @@
+ORZECHY I PESTKI;Dynia łuskana (pestka dyni);17.8;kg;1.0;/dynia-luskana-pestka-dyni
+ORZECHY I PESTKI;Dynia łuskana (pestka dyni);70.0;kg;5.0;/dynia-luskana-pestka-dyni
+ORZECHY I PESTKI;Dynia łuskana (pestka dyni) Polska;13.0;kg;0.5;/dynia-luskana-pestka-dyni-polska
+ORZECHY I PESTKI;Dynia łuskana (pestka dyni) Polska;21.5;kg;1.0;/dynia-luskana-pestka-dyni-polska
+ORZECHY I PESTKI;Dynia łuskana (pestka dyni) Polska;98.0;kg;5.0;/dynia-luskana-pestka-dyni-polska
+ORZECHY I PESTKI;Dynia pestka w łupinie;12.0;kg;1.0;/dynia-pestka-w-lupinie
+ORZECHY I PESTKI;Dynia pestka w łupinie;55.0;kg;5.0;/dynia-pestka-w-lupinie
+ORZECHY I PESTKI;Macadamia w czekoladzie;18.0;kg;0.2;/macadamia-w-czekoladzie
+ORZECHY I PESTKI;Macadamia w czekoladzie;80.0;kg;1.0;/macadamia-w-czekoladzie
+ORZECHY I PESTKI;Migdały blanszowane;47.5;kg;1.0;/migdaly-blanszowane
+ORZECHY I PESTKI;Migdały blanszowane;220.0;kg;5.0;/migdaly-blanszowane
+ORZECHY I PESTKI;Migdały kalifornijskie;22.0;kg;0.5;/migdaly-kalifornijskie
+ORZECHY I PESTKI;Migdały kalifornijskie;40.8;kg;1.0;/migdaly-kalifornijskie
+ORZECHY I PESTKI;Migdały kalifornijskie;190.0;kg;5.0;/migdaly-kalifornijskie
+ORZECHY I PESTKI;Migdały kalifornijskie non pareil;26.0;kg;0.5;/migdaly-kalifornijskie-non-pareil
+ORZECHY I PESTKI;Migdały kalifornijskie non pareil;47.0;kg;1.0;/migdaly-kalifornijskie-non-pareil
+ORZECHY I PESTKI;Migdały kalifornijskie non pareil;220.0;kg;5.0;/migdaly-kalifornijskie-non-pareil
+ORZECHY I PESTKI;Migdały kostka;33.0;kg;0.5;/migdaly-kostka
+ORZECHY I PESTKI;Migdały kostka;65.0;kg;1.0;/migdaly-kostka
+ORZECHY I PESTKI;Migdały płatki;5.9;kg;0.1;/migdaly-platki
+ORZECHY I PESTKI;Migdały płatki;49.0;kg;1.0;/migdaly-platki
+ORZECHY I PESTKI;Migdały płatki;225.5;kg;5.0;/migdaly-platki
+ORZECHY I PESTKI;Migdały słupki;58.5;kg;1.0;/migdaly-slupki
+ORZECHY I PESTKI;Migdały słupki;275.0;kg;5.0;/migdaly-slupki
+ORZECHY I PESTKI;Migdały w czekoladzie;12.0;kg;0.2;/migdaly-w-czekoladzie
+ORZECHY I PESTKI;Migdały w czekoladzie;27.0;kg;0.5;/migdaly-w-czekoladzie
+ORZECHY I PESTKI;Migdały w karmelu;15.0;kg;0.2;/migdaly-w-karmelu
+ORZECHY I PESTKI;Migdały w karmelu;58.0;kg;1.0;/migdaly-w-karmelu
+ORZECHY I PESTKI;Orzechy brazylijskie;23.5;kg;0.5;/orzechy-brazylijskie
+ORZECHY I PESTKI;Orzechy brazylijskie;45.5;kg;1.0;/orzechy-brazylijskie
+ORZECHY I PESTKI;Orzechy brazylijskie;210.0;kg;5.0;/orzechy-brazylijskie
+ORZECHY I PESTKI;Orzechy laskowe łuskane;23.0;kg;0.5;/orzechy-laskowe-luskane
+ORZECHY I PESTKI;Orzechy laskowe łuskane;44.8;kg;1.0;/orzechy-laskowe-luskane
+ORZECHY I PESTKI;Orzechy laskowe łuskane;210.0;kg;5.0;/orzechy-laskowe-luskane
+ORZECHY I PESTKI;Orzechy laskowe prażone blanszowane;31.0;kg;0.5;/orzechy-laskowe-prazone-blanszowane
+ORZECHY I PESTKI;Orzechy laskowe prażone blanszowane;60.0;kg;1.0;/orzechy-laskowe-prazone-blanszowane
+ORZECHY I PESTKI;Orzechy laskowe prażone blanszowane;290.0;kg;5.0;/orzechy-laskowe-prazone-blanszowane
+ORZECHY I PESTKI;Orzechy laskowe w karmelu;15.0;kg;0.2;/orzechy-laskowe-w-karmelu
+ORZECHY I PESTKI;Orzechy laskowe w karmelu;62.0;kg;1.0;/orzechy-laskowe-w-karmelu
+ORZECHY I PESTKI;Orzechy macadamia;58.0;kg;0.5;/orzechy-macadamia
+ORZECHY I PESTKI;Orzechy macadamia;105.0;kg;1.0;/orzechy-macadamia
+ORZECHY I PESTKI;Orzechy nerkowca;22.5;kg;0.5;/orzechy-nerkowca
+ORZECHY I PESTKI;Orzechy nerkowca;43.9;kg;1.0;/orzechy-nerkowca
+ORZECHY I PESTKI;Orzechy nerkowca;215.0;kg;5.0;/orzechy-nerkowca
+ORZECHY I PESTKI;Orzechy nerkowca duże;52.5;kg;1.0;/orzechy-nerkowca-duze
+ORZECHY I PESTKI;Orzechy nerkowca duże;250.0;kg;5.0;/orzechy-nerkowca-duze
+ORZECHY I PESTKI;Orzechy nerkowca solone;48.0;kg;1.0;/orzechy-nerkowca-solone
+ORZECHY I PESTKI;Orzechy nerkowca solone;230.0;kg;5.0;/orzechy-nerkowca-solone
+ORZECHY I PESTKI;Orzechy nerkowca w karmelu;15.0;kg;0.2;/orzechy-nerkowca-w-karmelu
+ORZECHY I PESTKI;Orzechy nerkowca w karmelu;48.0;kg;1.0;/orzechy-nerkowca-w-karmelu
+ORZECHY I PESTKI;Orzechy pecan;17.0;kg;0.2;/orzechy-pecan
+ORZECHY I PESTKI;Orzechy pecan;39.7;kg;0.5;/orzechy-pecan
+ORZECHY I PESTKI;Orzechy pecan;78.0;kg;1.0;/orzechy-pecan
+ORZECHY I PESTKI;Orzechy pecan w łupinie;35.0;kg;0.5;/orzechy-pecan-w-lupinie
+ORZECHY I PESTKI;Orzechy pecan w łupinie;65.0;kg;1.0;/orzechy-pecan-w-lupinie
+ORZECHY I PESTKI;Orzechy pinii;16.5;kg;0.1;/orzechy-pinii-cedrowe
+ORZECHY I PESTKI;Orzechy pinii;145.0;kg;1.0;/orzechy-pinii-cedrowe
+ORZECHY I PESTKI;Orzechy pinii/cedrowe;15.0;kg;0.1;/orzechy-pinii-cedrowe-4
+ORZECHY I PESTKI;Orzechy pinii/cedrowe;70.0;kg;0.5;/orzechy-pinii-cedrowe-4
+ORZECHY I PESTKI;Orzechy pinii/cedrowe;135.0;kg;1.0;/orzechy-pinii-cedrowe-4
+ORZECHY I PESTKI;Orzechy włoskie łuskane;15.0;kg;0.5;/orzechy-wloskie-luskane
+ORZECHY I PESTKI;Orzechy włoskie łuskane;29.5;kg;1.0;/orzechy-wloskie-luskane
+ORZECHY I PESTKI;Orzechy włoskie łuskane;130.0;kg;5.0;/orzechy-wloskie-luskane
+ORZECHY I PESTKI;Orzechy ziemne (fistaszki);10.5;kg;1.0;/orzechy-ziemne-fistaszki
+ORZECHY I PESTKI;Orzechy ziemne (fistaszki);42.5;kg;5.0;/orzechy-ziemne-fistaszki
+ORZECHY I PESTKI;Orzechy ziemne (fistaszki) surowe;9.5;kg;1.0;/orzechy-ziemne-fistaszki-surowe
+ORZECHY I PESTKI;Orzechy ziemne (fistaszki) surowe;40.0;kg;5.0;/orzechy-ziemne-fistaszki-surowe
+ORZECHY I PESTKI;Orzechy ziemne krojone 2/4 arachidowe;12.3;kg;1.0;/orzechy-ziemne-krojone-2-4-arachidowe
+ORZECHY I PESTKI;Orzechy ziemne krojone 2/4 arachidowe;49.0;kg;5.0;/orzechy-ziemne-krojone-2-4-arachidowe
+ORZECHY I PESTKI;Orzechy ziemne krojone 2/4 arachidowe;95.0;kg;10.0;/orzechy-ziemne-krojone-2-4-arachidowe
+ORZECHY I PESTKI;Orzechy ziemne łuskane prażone duże;12.8;kg;1.0;/orzechy-ziemne-luskane-prazone-duze
+ORZECHY I PESTKI;Orzechy ziemne łuskane prażone duże;52.5;kg;5.0;/orzechy-ziemne-luskane-prazone-duze
+ORZECHY I PESTKI;Orzechy ziemne łuskane SUROWE;11.2;kg;1.0;/orzechy-ziemne-luskane-surowe
+ORZECHY I PESTKI;Orzechy ziemne łuskane SUROWE;50.0;kg;5.0;/orzechy-ziemne-luskane-surowe
+ORZECHY I PESTKI;Orzechy ziemne solone arachidowe;13.3;kg;1.0;/orzechy-ziemne-solone-arachidowe
+ORZECHY I PESTKI;Orzechy ziemne solone arachidowe;59.5;kg;5.0;/orzechy-ziemne-solone-arachidowe
+ORZECHY I PESTKI;Orzechy ziemne solone w puszce 150g;3.9;szt.;1.0;/orzechy-ziemne-solone-w-puszce-150g
+ORZECHY I PESTKI;Orzechy ziemne solone w puszce 150g;34.8;szt.;12.0;/orzechy-ziemne-solone-w-puszce-150g
+ORZECHY I PESTKI;Orzechy ziemne w czekoladzie;6.0;kg;0.2;/orzechy-ziemne-w-czekoladzie
+ORZECHY I PESTKI;Orzechy ziemne w czekoladzie;14.0;kg;0.5;/orzechy-ziemne-w-czekoladzie
+ORZECHY I PESTKI;Orzechy ziemne w karmelu;7.0;kg;0.5;/orzechy-ziemne-w-karmelu
+ORZECHY I PESTKI;Orzechy ziemne w karmelu;12.8;kg;1.0;/orzechy-ziemne-w-karmelu
+ORZECHY I PESTKI;Orzechy ziemne w karmelu;52.5;kg;5.0;/orzechy-ziemne-w-karmelu
+ORZECHY I PESTKI;Orzechy ziemne w papryce;13.0;kg;0.5;/orzechy-ziemne-w-papryce-5
+ORZECHY I PESTKI;Orzechy ziemne w papryce;23.8;kg;1.0;/orzechy-ziemne-w-papryce-5
+ORZECHY I PESTKI;Pestki moreli z Turcji;26.5;kg;1.0;/pestki-moreli-z-turcji
+ORZECHY I PESTKI;Pestki moreli z Turcji;115.0;kg;5.0;/pestki-moreli-z-turcji
+ORZECHY I PESTKI;Pistacje łuskane niesolone EXTRA;18.8;kg;0.1;/pistacje-luskane-niesolone-extra
+ORZECHY I PESTKI;Pistacje łuskane niesolone EXTRA;87.0;kg;0.5;/pistacje-luskane-niesolone-extra
+ORZECHY I PESTKI;Pistacje łuskane niesolone EXTRA;173.0;kg;1.0;/pistacje-luskane-niesolone-extra
+ORZECHY I PESTKI;Pistacje łuskane niesolone zwykłe;16.0;kg;0.1;/pistacje-luskane-niesolone-zwykle
+ORZECHY I PESTKI;Pistacje łuskane niesolone zwykłe;130.0;kg;1.0;/pistacje-luskane-niesolone-zwykle
+ORZECHY I PESTKI;Pistacje prażone solone;26.0;kg;0.5;/pistacje-prazone-solone
+ORZECHY I PESTKI;Pistacje prażone solone;50.0;kg;1.0;/pistacje-prazone-solone
+ORZECHY I PESTKI;Pistacje prażone solone;240.0;kg;5.0;/pistacje-prazone-solone
+ORZECHY I PESTKI;Pistacje prażone solone XXL Premium;28.0;kg;0.5;/pistacje-prazone-solone-xxl-premium
+ORZECHY I PESTKI;Pistacje prażone solone XXL Premium;54.0;kg;1.0;/pistacje-prazone-solone-xxl-premium
+ORZECHY I PESTKI;Pistacje prażone solone XXL Premium;250.0;kg;5.0;/pistacje-prazone-solone-xxl-premium
+ORZECHY I PESTKI;Słonecznik czarny drobny;3.4;kg;1.0;/slonecznik-czarny-drobny
+ORZECHY I PESTKI;Słonecznik czarny drobny;14.0;kg;5.0;/slonecznik-czarny-drobny
+ORZECHY I PESTKI;Słonecznik czarny gruby;6.8;kg;1.0;/slonecznik-czarny-gruby
+ORZECHY I PESTKI;Słonecznik czarny gruby;25.0;kg;5.0;/slonecznik-czarny-gruby
+ORZECHY I PESTKI;Słonecznik łuskany;3.6;kg;0.5;/slonecznik-luskany
+ORZECHY I PESTKI;Słonecznik łuskany;5.9;kg;1.0;/slonecznik-luskany
+ORZECHY I PESTKI;Słonecznik łuskany;26.0;kg;5.0;/slonecznik-luskany
+ORZECHY I PESTKI;Słonecznik łuskany;50.0;kg;10.0;/slonecznik-luskany
+ORZECHY I PESTKI;słonecznik łuskany w karmelu;6.9;kg;0.5;/slonecznik-luskany-w-karmelu
+ORZECHY I PESTKI;słonecznik łuskany w karmelu;12.0;kg;1.0;/slonecznik-luskany-w-karmelu
+ORZECHY I PESTKI;Słonecznik pasiak;6.0;kg;1.0;/slonecznik-pasiak
+ORZECHY I PESTKI;Słonecznik pasiak;25.0;kg;5.0;/slonecznik-pasiak
+OWOCE I GRZYBY;Ananas kostka kandyzowany mix;11.0;kg;0.5;/ananas-kostka-kandyzowany-mix
+OWOCE I GRZYBY;Ananas kostka kandyzowany mix;20.5;kg;1.0;/ananas-kostka-kandyzowany-mix
+OWOCE I GRZYBY;Ananas kostka kandyzowany mix;95.0;kg;5.0;/ananas-kostka-kandyzowany-mix
+OWOCE I GRZYBY;Ananas krążek-plaster kandyzowany;15.9;kg;0.5;/ananas-krazek-plaster-kandyzowany
+OWOCE I GRZYBY;Ananas krążek-plaster kandyzowany;29.9;kg;1.0;/ananas-krazek-plaster-kandyzowany
+OWOCE I GRZYBY;Ananas pieniążek kandyzowany zielony;8.0;kg;0.5;/ananas-pieniazek-kandyzowany-zielony
+OWOCE I GRZYBY;Ananas pieniążek kandyzowany zielony;15.0;kg;1.0;/ananas-pieniazek-kandyzowany-zielony
+OWOCE I GRZYBY;Ananas pieniążek kandyzowany zielony;67.5;kg;5.0;/ananas-pieniazek-kandyzowany-zielony
+OWOCE I GRZYBY;Ananas suszony bez cukru;37.0;kg;0.5;/ananas-suszony-bez-cukru
+OWOCE I GRZYBY;Ananasy płatki kandyzowane czerwone;8.0;kg;0.5;/ananasy-platki-kandyzowane-czerwone
+OWOCE I GRZYBY;Ananasy płatki kandyzowane czerwone;15.0;kg;1.0;/ananasy-platki-kandyzowane-czerwone
+OWOCE I GRZYBY;Ananasy płatki kandyzowane czerwone;67.5;kg;5.0;/ananasy-platki-kandyzowane-czerwone
+OWOCE I GRZYBY;Ananasy płatki kandyzowane zielone;8.0;kg;0.5;/ananasy-platki-kandyzowane-zielone
+OWOCE I GRZYBY;Ananasy płatki kandyzowane zielone;15.0;kg;1.0;/ananasy-platki-kandyzowane-zielone
+OWOCE I GRZYBY;Ananasy płatki kandyzowane zielone;67.5;kg;5.0;/ananasy-platki-kandyzowane-zielone
+OWOCE I GRZYBY;Aronia suszona;6.9;kg;0.2;/aronia-suszona
+OWOCE I GRZYBY;Aronia suszona;21.0;kg;1.0;/aronia-suszona
+OWOCE I GRZYBY;Banany suszone bez cukru;27.5;kg;0.5;/banany-suszone-bez-cukru
+OWOCE I GRZYBY;Borowik suszony 20g;5.6;szt.;1.0;/borowik-suszony-20g
+OWOCE I GRZYBY;Borowik suszony 20g;53.5;szt.;10.0;/borowik-suszony-20g
+OWOCE I GRZYBY;Borówka Amerykańska suszona;9.9;kg;0.1;/borowka-amerykanska-suszona
+OWOCE I GRZYBY;Borówka Amerykańska suszona;38.0;kg;0.5;/borowka-amerykanska-suszona
+OWOCE I GRZYBY;Borówka brusznica;18.0;kg;0.1;/borowka-brusznica
+OWOCE I GRZYBY;Borówka brusznica;28.9;kg;0.2;/borowka-brusznica
+OWOCE I GRZYBY;Borówka brusznica;69.0;kg;0.5;/borowka-brusznica
+OWOCE I GRZYBY;Brzoskwinie suszone;14.8;kg;1.0;/brzoskwinie-suszone
+OWOCE I GRZYBY;Brzoskwinie suszone;162.5;kg;12.5;/brzoskwinie-suszone
+OWOCE I GRZYBY;Chipsy bananowe (banany suszone);4.0;kg;0.2;/chipsy-bananowe-banany-suszone
+OWOCE I GRZYBY;Chipsy bananowe (banany suszone);13.5;kg;1.0;/chipsy-bananowe-banany-suszone
+OWOCE I GRZYBY;Chipsy bananowe (banany suszone);74.8;kg;6.8;/chipsy-bananowe-banany-suszone
+OWOCE I GRZYBY;Czarna porzeczka suszona;22.0;kg;0.5;/czarna-porzeczka-suszona
+OWOCE I GRZYBY;Czarna porzeczka suszona;41.0;kg;1.0;/czarna-porzeczka-suszona
+OWOCE I GRZYBY;czarny bez owoce suszone;8.5;kg;0.2;/czarny-bez-owoce-suszone
+OWOCE I GRZYBY;czarny bez owoce suszone;19.0;kg;0.5;/czarny-bez-owoce-suszone
+OWOCE I GRZYBY;czarny bez owoce suszone;33.0;kg;1.0;/czarny-bez-owoce-suszone
+OWOCE I GRZYBY;Daktyle suszone;4.8;kg;0.5;/daktyle-suszone
+OWOCE I GRZYBY;Daktyle suszone;8.9;kg;1.0;/daktyle-suszone
+OWOCE I GRZYBY;Daktyle suszone;72.0;kg;10.0;/daktyle-suszone
+OWOCE I GRZYBY;Daktyle suszone XXL z pestką;35.0;kg;1.0;/daktyle-suszone-xxl-z-pestka
+OWOCE I GRZYBY;Daktyle suszone XXL z pestką;160.0;kg;5.0;/daktyle-suszone-xxl-z-pestka
+OWOCE I GRZYBY;Dereń;9.9;kg;0.1;/deren
+OWOCE I GRZYBY;Figi suszone;19.5;kg;1.0;/figi-suszone
+OWOCE I GRZYBY;Figi suszone;37.0;kg;2.0;/figi-suszone
+OWOCE I GRZYBY;Figi suszone 200g;35.0;szt.;10.0;/figi-suszone-200g
+OWOCE I GRZYBY;Figi suszone hiszpańskie;19.8;kg;1.0;/figi-suszone-hiszpanskie
+OWOCE I GRZYBY;Figi suszone hiszpańskie;90.0;kg;5.0;/figi-suszone-hiszpanskie
+OWOCE I GRZYBY;Figi suszone XXL;26.5;kg;1.0;/figi-suszone-xxl
+OWOCE I GRZYBY;GOJNIK SUSZONY (HERBATA GÓRSKA);15.0;kg;0.1;/gojnik-suszony-herbata-gorska
+OWOCE I GRZYBY;Hibiscus (Hibiskus) kandyzowany;14.5;kg;0.5;/hibiscus-hibiskus-kandyzowany
+OWOCE I GRZYBY;Imbir kostka kandyzowany;13.0;kg;0.5;/imbir-kostka-kandyzowany
+OWOCE I GRZYBY;Imbir kostka kandyzowany;24.5;kg;1.0;/imbir-kostka-kandyzowany
+OWOCE I GRZYBY;Imbir kostka kandyzowany;100.0;kg;5.0;/imbir-kostka-kandyzowany
+OWOCE I GRZYBY;Jabłka suszone jasne;19.5;kg;1.0;/jablka-suszone-jasne
+OWOCE I GRZYBY;Jabłko suszone bez skórki 35g;5.9;szt.;1.0;/jablko-suszone-bez-skorki-35g
+OWOCE I GRZYBY;Jabłko suszone bez skórki 35g;55.0;szt.;10.0;/jablko-suszone-bez-skorki-35g
+OWOCE I GRZYBY;Jabłko suszone Polskie;7.5;kg;0.1;/jablko-suszone-polskie
+OWOCE I GRZYBY;Jabłko suszone Polskie;30.0;kg;0.5;/jablko-suszone-polskie
+OWOCE I GRZYBY;Jarzębina suszona;11.0;kg;0.2;/jarzebina-suszona
+OWOCE I GRZYBY;Jarzębina suszona;19.0;kg;0.5;/jarzebina-suszona
+OWOCE I GRZYBY;Kiwi suszone;24.0;kg;1.0;/kiwi-suszone
+OWOCE I GRZYBY;Kiwi suszone;105.0;kg;5.0;/kiwi-suszone
+OWOCE I GRZYBY;KOSTKA JABŁKOWA ZE SKÓRKĄ 55g;4.8;szt.;1.0;/kostka-jablkowa-ze-skorka-55g
+OWOCE I GRZYBY;KOSTKA JABŁKOWA ZE SKÓRKĄ 55g;16.8;szt.;4.0;/kostka-jablkowa-ze-skorka-55g
+OWOCE I GRZYBY;KUMKWAT - ZŁOTA POMARAŃCZA - kandyzowana;11.9;kg;0.5;/kumkwat-zlota-pomarancza-kandyzowana
+OWOCE I GRZYBY;KUMKWAT - ZŁOTA POMARAŃCZA - kandyzowana;19.9;kg;1.0;/kumkwat-zlota-pomarancza-kandyzowana
+OWOCE I GRZYBY;MALINY SUSZONE;14.8;kg;0.1;/maliny-suszone
+OWOCE I GRZYBY;Mandarynka suszona;12.1;kg;0.2;/mandarynka-suszona
+OWOCE I GRZYBY;Mandarynka suszona;49.9;kg;1.0;/mandarynka-suszona
+OWOCE I GRZYBY;Mango suszone bez cukru;38.0;kg;0.5;/mango-suszone-bez-cukru
+OWOCE I GRZYBY;Melon o smaku jabłka;10.0;kg;0.5;/melon-o-smaku-jablka
+OWOCE I GRZYBY;Melon o smaku truskawek;10.0;kg;0.5;/melon-o-smaku-truskawek
+OWOCE I GRZYBY;Miechunka suszona;35.0;kg;0.5;/miechunka-suszona-2
+OWOCE I GRZYBY;Miechunka suszona;65.0;kg;1.0;/miechunka-suszona-2
+OWOCE I GRZYBY;Miechunka suszona BIO;46.0;kg;0.5;/miechunka-suszona-bio
+OWOCE I GRZYBY;Miechunka suszona BIO;88.0;kg;1.0;/miechunka-suszona-bio
+OWOCE I GRZYBY;Mieszanka keksowa;15.9;kg;1.0;/mieszanka-keksowa
+OWOCE I GRZYBY;Mieszanka keksowa 100g;2.5;szt.;1.0;/mieszanka-keksowa-100g
+OWOCE I GRZYBY;Morele "1" Premium suszone;16.0;kg;0.5;/morele-1-premium-suszone-3
+OWOCE I GRZYBY;Morele "1" Premium suszone;29.8;kg;1.0;/morele-1-premium-suszone-3
+OWOCE I GRZYBY;Morele "1" Premium suszone;140.0;kg;5.0;/morele-1-premium-suszone-3
+OWOCE I GRZYBY;Morele naturalnie suszone;14.7;kg;0.5;/morele-naturalnie-suszone
+OWOCE I GRZYBY;Morele naturalnie suszone;28.5;kg;1.0;/morele-naturalnie-suszone
+OWOCE I GRZYBY;Morele naturalnie suszone;140.0;kg;5.0;/morele-naturalnie-suszone
+OWOCE I GRZYBY;MORELE SUSZONE NATURALNE W CZEKOLADZIE;22.0;kg;0.5;/morele-suszone-naturalne-w-czekoladzie
+OWOCE I GRZYBY;Morwa biała suszona;34.9;kg;1.0;/morwa-biala-suszona
+OWOCE I GRZYBY;Morwa biała suszona;160.0;kg;5.0;/morwa-biala-suszona
+OWOCE I GRZYBY;Owoce goji suszone;21.5;kg;0.5;/owoce-goji-suszone
+OWOCE I GRZYBY;Owoce goji suszone;41.6;kg;1.0;/owoce-goji-suszone
+OWOCE I GRZYBY;Owoce goji suszone;190.0;kg;5.0;/owoce-goji-suszone
+OWOCE I GRZYBY;Papaja kostka kandyzowana;20.0;kg;1.0;/papaja-kostka-kandyzowana
+OWOCE I GRZYBY;Papaja kostka kandyzowana;90.0;kg;5.0;/papaja-kostka-kandyzowana
+OWOCE I GRZYBY;Papaja o smaku kantalupy;10.0;kg;0.5;/papaja-o-smaku-kantalupy
+OWOCE I GRZYBY;Pigwowiec owoc (suszona pigwa);16.0;kg;0.1;/pigwowiec-owoc-suszona-pigwa
+OWOCE I GRZYBY;Pigwowiec owoc (suszona pigwa);54.0;kg;0.5;/pigwowiec-owoc-suszona-pigwa
+OWOCE I GRZYBY;Pigwowiec owoc (suszona pigwa);99.0;kg;1.0;/pigwowiec-owoc-suszona-pigwa
+OWOCE I GRZYBY;Podgrzybek suszony 20g;5.6;szt.;1.0;/podgrzybek-suszony-20g
+OWOCE I GRZYBY;Podgrzybek suszony 20g;53.5;szt.;10.0;/podgrzybek-suszony-20g
+OWOCE I GRZYBY;Pomidor plastry 30g;5.3;szt.;1.0;/pomidor-plastry-30g
+OWOCE I GRZYBY;Pomidor plastry 30g;49.0;szt.;10.0;/pomidor-plastry-30g
+OWOCE I GRZYBY;POMIDORY igiełki instatnt;5.5;kg;0.1;/pomidory-igielki-instatnt
+OWOCE I GRZYBY;POMIDORY SUSZONE, SŁODZONE CHERRY;12.5;kg;0.5;/pomidory-suszone-slodzone-cherry
+OWOCE I GRZYBY;POMIDORY SUSZONE, SŁODZONE CHERRY;22.0;kg;1.0;/pomidory-suszone-slodzone-cherry
+OWOCE I GRZYBY;Rodzynki drobne ciemne;10.5;kg;1.0;/rodzynki-drobne-ciemne
+OWOCE I GRZYBY;Rodzynki drobne ciemne;115.0;kg;12.5;/rodzynki-drobne-ciemne
+OWOCE I GRZYBY;Rodzynki Golden Jumbo XXL jasne;12.0;kg;0.5;/rodzynki-golden-jumbo-xxl-jasne
+OWOCE I GRZYBY;Rodzynki Golden Jumbo XXL jasne;22.0;kg;1.0;/rodzynki-golden-jumbo-xxl-jasne
+OWOCE I GRZYBY;Rodzynki Golden Jumbo XXL jasne;195.0;kg;10.0;/rodzynki-golden-jumbo-xxl-jasne
+OWOCE I GRZYBY;Rodzynki Thompson Jumbo;14.6;kg;1.0;/rodzynki-thompson-jumbo
+OWOCE I GRZYBY;Rodzynki Thompson Jumbo;125.0;kg;10.0;/rodzynki-thompson-jumbo
+OWOCE I GRZYBY;Śliwki kalifornijskie BIO taylor suszone;25.0;kg;0.5;/sliwki-kalifornijskie-bio-taylor-suszone
+OWOCE I GRZYBY;Śliwki kalifornijskie BIO taylor suszone;46.0;kg;1.0;/sliwki-kalifornijskie-bio-taylor-suszone
+OWOCE I GRZYBY;Śliwki kalifornijskie taylor suszone;15.5;kg;0.5;/sliwki-kalifornijskie-taylor-suszone
+OWOCE I GRZYBY;Śliwki kalifornijskie taylor suszone;28.5;kg;1.0;/sliwki-kalifornijskie-taylor-suszone
+OWOCE I GRZYBY;Śliwki kalifornijskie taylor suszone;306.25;kg;12.5;/sliwki-kalifornijskie-taylor-suszone
+OWOCE I GRZYBY;Śliwki suszone;8.8;kg;0.5;/sliwki-suszone
+OWOCE I GRZYBY;Śliwki suszone;16.5;kg;1.0;/sliwki-suszone
+OWOCE I GRZYBY;Śliwki suszone;75.0;kg;5.0;/sliwki-suszone
+OWOCE I GRZYBY;Śliwki suszone;140.0;kg;10.0;/sliwki-suszone
+OWOCE I GRZYBY;Śliwki suszone duże Premium;21.5;kg;1.0;/sliwki-suszone-duze-premium
+OWOCE I GRZYBY;Śliwki suszone duże Premium;170.0;kg;10.0;/sliwki-suszone-duze-premium
+OWOCE I GRZYBY;ŚLIWKI W CZEKOLADZIE;17.0;kg;0.5;/sliwki-w-czekoladzie
+OWOCE I GRZYBY;Tarnina;6.5;kg;0.2;/tarnina
+OWOCE I GRZYBY;Tarnina;14.0;kg;0.5;/tarnina
+OWOCE I GRZYBY;Tarnina;22.0;kg;1.0;/tarnina
+OWOCE I GRZYBY;Truskawki suszone całe kandyzowane;11.0;kg;0.2;/truskawki-suszone-cale-kandyzowane
+OWOCE I GRZYBY;Truskawki suszone całe kandyzowane;45.0;kg;1.0;/truskawki-suszone-cale-kandyzowane
+OWOCE I GRZYBY;Wiórki kokosowe;12.9;kg;1.0;/wiorki-kokosowe
+OWOCE I GRZYBY;Wiórki kokosowe;55.0;kg;5.0;/wiorki-kokosowe
+OWOCE I GRZYBY;Wiśnie suszone kandyzowane 100g;3.9;szt.;1.0;/wisnie-suszone-kandyzowane-100g
+OWOCE I GRZYBY;Wiśnie suszone Polskie;29.0;kg;0.5;/wisnie-suszone-polskie
+OWOCE I GRZYBY;Wiśnie suszone Polskie;56.0;kg;1.0;/wisnie-suszone-polskie
+OWOCE I GRZYBY;Wiśnie suszone USA;20.0;kg;0.5;/wisnie-suszone-usa
+OWOCE I GRZYBY;Żurawina cała niesłodzona suszona;16.8;kg;0.1;/zurawina-cala-nieslodzona-suszona
+OWOCE I GRZYBY;Żurawina cała niesłodzona suszona;76.0;kg;0.5;/zurawina-cala-nieslodzona-suszona
+OWOCE I GRZYBY;Żurawina cała suszona;13.0;kg;0.5;/zurawina-cala-suszona
+OWOCE I GRZYBY;Żurawina cała suszona;25.5;kg;1.0;/zurawina-cala-suszona
+OWOCE I GRZYBY;Żurawina cała suszona;110.0;kg;5.0;/zurawina-cala-suszona
+OWOCE I GRZYBY;Żurawina cała suszona;243.81;kg;11.34;/zurawina-cala-suszona
+OWOCE I GRZYBY;Żurawina niesłodzona suszona Polska;15.5;kg;0.1;/zurawina-nieslodzona-suszona-polska
+OWOCE I GRZYBY;Żurawina niesłodzona suszona Polska;65.0;kg;0.5;/zurawina-nieslodzona-suszona-polska
+OWOCE I GRZYBY;Żurawina suszona;9.5;kg;0.5;/zurawina-suszona
+OWOCE I GRZYBY;Żurawina suszona;18.1;kg;1.0;/zurawina-suszona
+OWOCE I GRZYBY;Żurawina suszona;82.5;kg;5.0;/zurawina-suszona
+OWOCE I GRZYBY;Żurawina suszona;181.44;kg;11.34;/zurawina-suszona
+ZBOŻA;Bezglutenowy makaron kukurydziany BIO - spaghetti 200 g;11.5;szt.;1.0;/bezglutenowy-makaron-kukurydziany-bio-spaghetti-200-g
+ZBOŻA;Bezglutenowy makaron kukurydziany BIO - spirelli trzy kolory 200 g;11.5;szt.;1.0;/bezglutenowy-makaron-kukurydziany-bio-spirelli-trzy-kolory-200-g
+ZBOŻA;Bezglutenowy makaron kukurydziany BIO - wstążki 200 g;11.5;szt.;1.0;/bezglutenowy-makaron-kukurydziany-bio-wstazki-200-g
+ZBOŻA;Dziki ryż;7.5;kg;0.1;/dziki-ryz
+ZBOŻA;Dziki ryż;33.0;kg;0.5;/dziki-ryz
+ZBOŻA;Dziki ryż;65.0;kg;1.0;/dziki-ryz
+ZBOŻA;Kasza Bulgur;8.1;kg;1.0;/kasza-bulgur
+ZBOŻA;Kasza Bulgur;35.0;kg;5.0;/kasza-bulgur
+ZBOŻA;Kasza gryczana niepalona;5.0;kg;1.0;/kasza-gryczana-niepalona
+ZBOŻA;Kasza gryczana niepalona;22.5;kg;5.0;/kasza-gryczana-niepalona
+ZBOŻA;Kasza gryczana niepalona BIO;12.0;kg;1.0;/kasza-gryczana-niepalona-bio
+ZBOŻA;Kasza gryczana palona;5.0;kg;1.0;/kasza-gryczana-palona
+ZBOŻA;Kasza gryczana palona;22.5;kg;5.0;/kasza-gryczana-palona
+ZBOŻA;Kasza gryczana prażona BIO;12.0;kg;1.0;/kasza-gryczana-prazona-bio
+ZBOŻA;Kasza jaglana;3.5;kg;1.0;/kasza-jaglana
+ZBOŻA;Kasza jaglana;14.5;kg;5.0;/kasza-jaglana
+ZBOŻA;Kasza jaglana;28.0;kg;10.0;/kasza-jaglana
+ZBOŻA;Kasza jaglana BIO;8.8;kg;1.0;/kasza-jaglana-bio
+ZBOŻA;Kasza jaglana BIO;35.0;kg;5.0;/kasza-jaglana-bio
+ZBOŻA;Kasza jęczmienna BIO;7.5;kg;1.0;/kasza-jeczmienna-bio
+ZBOŻA;Kasza jęczmienna gruba perłowa;3.4;kg;1.0;/kasza-jeczmienna-gruba-perlowa
+ZBOŻA;Kasza jęczmienna gruba perłowa;14.0;kg;5.0;/kasza-jeczmienna-gruba-perlowa
+ZBOŻA;Kasza jęczmienna pęczak I gatunek;3.4;kg;1.0;/kasza-jeczmienna-peczak-i-gatunek
+ZBOŻA;Kasza jęczmienna pęczak I gatunek;14.0;kg;5.0;/kasza-jeczmienna-peczak-i-gatunek
+ZBOŻA;Kasza jęczmienna pęczak I gatunek;27.0;kg;10.0;/kasza-jeczmienna-peczak-i-gatunek
+ZBOŻA;Kasza jęczmienna średnia perłowa;3.4;kg;1.0;/kasza-jeczmienna-srednia-perlowa
+ZBOŻA;Kasza jęczmienna średnia perłowa;14.0;kg;5.0;/kasza-jeczmienna-srednia-perlowa
+ZBOŻA;Kasza jęczmienna średnia perłowa;27.0;kg;10.0;/kasza-jeczmienna-srednia-perlowa
+ZBOŻA;Kasza Krakowska;6.2;kg;1.0;/kasza-krakowska
+ZBOŻA;Kasza Krakowska;25.0;kg;5.0;/kasza-krakowska
+ZBOŻA;Kasza kukurydziana;3.1;kg;1.0;/kasza-kukurydziana
+ZBOŻA;Kasza kukurydziana;13.5;kg;5.0;/kasza-kukurydziana
+ZBOŻA;Kasza kukurydziana;26.0;kg;10.0;/kasza-kukurydziana
+ZBOŻA;Kasza kuskus;6.0;kg;1.0;/kasza-kuskus
+ZBOŻA;Kasza kuskus;25.0;kg;5.0;/kasza-kuskus
+ZBOŻA;Kasza manna;3.0;kg;1.0;/kasza-manna
+ZBOŻA;Kasza manna;12.5;kg;5.0;/kasza-manna
+ZBOŻA;Makaron błyskawiczny "Golden Lotus" 500g;5.95;szt.;1.0;/makaron-blyskawiczny-golden-lotus-500g
+ZBOŻA;Makaron orkiszowy BIO 250 g - jeżyki;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-jezyki
+ZBOŻA;Makaron orkiszowy BIO 250 g - jeżyki kolorowe;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-jezyki-kolorowe
+ZBOŻA;Makaron orkiszowy BIO 250 g - łazanki;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-lazanki
+ZBOŻA;Makaron orkiszowy BIO 250 g - nitki luksusowe;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-nitki-luksusowe
+ZBOŻA;Makaron orkiszowy BIO 250 g - nitki złociste;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-nitki-zlociste
+ZBOŻA;Makaron orkiszowy BIO 250 g - świderki kolorowe;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-swiderki-kolorowe
+ZBOŻA;Makaron orkiszowy BIO 250 g - wstążki;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-wstazki
+ZBOŻA;Makaron orkiszowy BIO 250 g - wstążki szpinakowe;6.5;szt.;1.0;/makaron-orkiszowy-bio-250-g-wstazki-szpinakowe
+ZBOŻA;Makaron orkiszowy BIO 250g - świderki;6.5;szt.;1.0;/makaron-orkiszowy-bio-250g-swiderki
+ZBOŻA;Makaron pełnoziarnisty orkiszowy BIO 400 g - nitki;6.5;szt.;1.0;/makaron-pelnoziarnisty-orkiszowy-bio-400-g-nitki
+ZBOŻA;Makaron pełnoziarnisty orkiszowy BIO 400 g - SPAGHETTI;6.5;szt.;1.0;/makaron-pelnoziarnisty-orkiszowy-bio-400-g-spaghetti
+ZBOŻA;Makaron pełnoziarnisty orkiszowy BIO 400 g - spirelli;6.5;szt.;1.0;/makaron-pelnoziarnisty-orkiszowy-bio-400-g-spirelli
+ZBOŻA;Makaron pełnoziarnisty orkiszowy BIO 400 g - trzy kolory;6.5;szt.;1.0;/makaron-pelnoziarnisty-orkiszowy-bio-400-g-trzy-kolory
+ZBOŻA;Makaron pełnoziarnisty orkiszowy BIO 400 g - wstążki;6.5;szt.;1.0;/makaron-pelnoziarnisty-orkiszowy-bio-400-g-wstazki
+ZBOŻA;Makaron ryżowy 3mm 400g;6.9;szt.;1.0;/makaron-ryzowy-3mm-400g
+ZBOŻA;Makaron ryżowy czerwony 7mm 500g;9.5;szt.;1.0;/makaron-ryzowy-czerwony-7mm-500g
+ZBOŻA;Makaron ryżowy Lami 500g;7.1;szt.;1.0;/makaron-ryzowy-lami-500g
+ZBOŻA;Makaron sojowy "fasolowe nitki" 1 kg;15.9;szt.;1.0;/makaron-sojowy-fasolowe-nitki-1-kg
+ZBOŻA;Makaron sojowy "fasolowe nitki" 100g;3.9;szt.;1.0;/makaron-sojowy-fasolowe-nitki-100g
+ZBOŻA;Makaron z manioku 500 g;15.9;szt.;1.0;/makaron-z-manioku-500-g
+ZBOŻA;Mąka grochowa;4.7;kg;1.0;/maka-grochowa
+ZBOŻA;Mąka grochowa;20.0;kg;5.0;/maka-grochowa
+ZBOŻA;Mąka gryczana;6.8;kg;1.0;/maka-gryczana
+ZBOŻA;Mąka gryczana;30.0;kg;5.0;/maka-gryczana
+ZBOŻA;Mąka gryczana BIO;11.5;kg;1.0;/maka-gryczana-bio
+ZBOŻA;Mąka jaglana;6.6;kg;1.0;/maka-jaglana
+ZBOŻA;Mąka jaglana;25.0;kg;5.0;/maka-jaglana
+ZBOŻA;Mąka jaglana BIO;10.0;kg;1.0;/maka-jaglana-bio
+ZBOŻA;Mąka jęczmienna;4.2;kg;1.0;/maka-jeczmienna
+ZBOŻA;Mąka jęczmienna;15.0;kg;5.0;/maka-jeczmienna
+ZBOŻA;Mąka Kokosowa;8.7;kg;1.0;/maka-kokosowa
+ZBOŻA;Mąka Kokosowa;36.0;kg;5.0;/maka-kokosowa
+ZBOŻA;Mąka kukurydziana;3.1;kg;1.0;/maka-kukurydziana
+ZBOŻA;Mąka kukurydziana;13.5;kg;5.0;/maka-kukurydziana
+ZBOŻA;Mąka kukurydziana;26.0;kg;10.0;/maka-kukurydziana
+ZBOŻA;Mąka kukurydziana BIO;8.5;kg;1.0;/maka-kukurydziana-bio
+ZBOŻA;Mąka migdałowa;43.9;kg;1.0;/maka-migdalowa
+ZBOŻA;Mąka migdałowa;200.0;kg;5.0;/maka-migdalowa
+ZBOŻA;Mąka orkiszowa biała TBL 70;8.0;kg;1.0;/maka-orkiszowa-biala-tbl-70
+ZBOŻA;Mąka orkiszowa biała TBL 70;33.0;kg;5.0;/maka-orkiszowa-biala-tbl-70
+ZBOŻA;Mąka orkiszowa biała TBL 70 BIO;12.0;kg;1.0;/maka-orkiszowa-biala-tbl-70-bio
+ZBOŻA;Mąka orkiszowa biała TBL 70 BIO;50.0;kg;5.0;/maka-orkiszowa-biala-tbl-70-bio
+ZBOŻA;Mąka orkiszowa graham TGL-180;7.8;kg;1.0;/maka-orkiszowa-graham-tgl-180
+ZBOŻA;Mąka orkiszowa TGL 300;8.0;kg;1.0;/maka-orkiszowa-tgl-300
+ZBOŻA;Mąka orkiszowa TGL 300;31.0;kg;5.0;/maka-orkiszowa-tgl-300
+ZBOŻA;Mąka orkiszowa TGL 300 BIO;12.0;kg;1.0;/maka-orkiszowa-tgl-300-bio
+ZBOŻA;Mąka orkiszowa TGL 300 BIO;50.0;kg;5.0;/maka-orkiszowa-tgl-300-bio
+ZBOŻA;Mąka orzechowa arachidowa;11.0;kg;1.0;/maka-orzechowa-arachidowa
+ZBOŻA;Mąka orzechowa arachidowa;85.0;kg;10.0;/maka-orzechowa-arachidowa
+ZBOŻA;Mąka pszenna BIO;5.9;kg;1.0;/maka-pszenna-bio
+ZBOŻA;Mąka pszenna razowa TYP 1850;3.0;kg;1.0;/maka-pszenna-razowa-typ-1850
+ZBOŻA;Mąka pszenna razowa TYP 1850;12.0;kg;5.0;/maka-pszenna-razowa-typ-1850
+ZBOŻA;Mąka pszenna TYP 450;3.0;kg;1.0;/maka-pszenna-typ-450
+ZBOŻA;Mąka pszenna TYP 450;12.0;kg;5.0;/maka-pszenna-typ-450
+ZBOŻA;Mąka Semolina z pszenicy durum;5.5;kg;1.0;/semolina-pszenica-durum-2
+ZBOŻA;Mąka Semolina z pszenicy durum;25.0;kg;5.0;/semolina-pszenica-durum-2
+ZBOŻA;Mąka z amarantusa;14.0;kg;1.0;/maka-z-amarantusa
+ZBOŻA;Mąka z amarantusa;60.0;kg;5.0;/maka-z-amarantusa
+ZBOŻA;Mąka z ciecierzycy 1kg;11.0;kg;1.0;/maka-z-ciecierzycy-1kg
+ZBOŻA;Mąka z ciecierzycy 2kg;18.8;kg;2.0;/maka-z-ciecierzycy-2kg
+ZBOŻA;Mąka z kasztanów jadalnych - ekologoczna;25.0;kg;0.5;/maka-z-kasztanow-jadalnych-ekologoczna
+ZBOŻA;Mąka z kasztanów jadalnych - ekologoczna;47.0;kg;1.0;/maka-z-kasztanow-jadalnych-ekologoczna
+ZBOŻA;Mąka z orzechów laskowych blanszowanych;29.0;kg;0.5;/maka-z-orzechow-laskowych-blanszowanych
+ZBOŻA;Mąka z pestek dyni ( POLSKA );15.5;kg;0.5;/maka-z-pestek-dyni-polska
+ZBOŻA;Mąka z pestek dyni ( POLSKA );29.0;kg;1.0;/maka-z-pestek-dyni-polska
+ZBOŻA;Mąka z pestek dyni ( POLSKA );130.0;kg;5.0;/maka-z-pestek-dyni-polska
+ZBOŻA;MĄKA Z TAPIOKI - TAJLANDIA - 400G;5.5;szt.;1.0;/maka-z-tapioki-tajlandia-400g
+ZBOŻA;MĄKA Z TAPIOKI - TAJLANDIA - 400G;20.0;szt.;4.0;/maka-z-tapioki-tajlandia-400g
+ZBOŻA;Mąka żytnia BIO;5.9;kg;1.0;/maka-zytnia-bio
+ZBOŻA;Mąka żytnia razowa TYP 1800;2.9;kg;1.0;/maka-zytnia-razowa-typ-1800
+ZBOŻA;Mąka żytnia razowa TYP 1800;12.0;kg;5.0;/maka-zytnia-razowa-typ-1800
+ZBOŻA;Mąka żytnia typ 500;3.0;kg;1.0;/maka-zytnia-typ-502
+ZBOŻA;Mąka żytnia typ 500;12.0;kg;5.0;/maka-zytnia-typ-502
+ZBOŻA;Ocet Ryżowy Do Sushi KENKO 750ml Premium;12.5;szt.;1.0;/ocet-ryzowy-do-sushi-kenko-750ml-premium
+ZBOŻA;Otręby orkiszowe;6.5;kg;1.0;/otreby-orkiszowe
+ZBOŻA;Otręby orkiszowe;22.5;kg;5.0;/otreby-orkiszowe
+ZBOŻA;Otręby orkiszowe BIO;8.9;kg;1.0;/otreby-orkiszowe-bio
+ZBOŻA;Otręby owsiane;5.9;kg;1.0;/otreby-owsiane
+ZBOŻA;Otręby owsiane;24.0;kg;5.0;/otreby-owsiane
+ZBOŻA;Otręby owsiane BIO;8.9;kg;1.0;/otreby-owsiane-bio
+ZBOŻA;Otręby pszenne;3.2;kg;1.0;/otreby-pszenne
+ZBOŻA;Otręby pszenne BIO;5.0;kg;1.0;/otreby-pszenne-bio
+ZBOŻA;Otręby żytnie BIO;5.0;kg;1.0;/otreby-zytnie-bio
+ZBOŻA;Płatki gryczane instant;10.5;kg;1.0;/platki-gryczane-instant
+ZBOŻA;Płatki gryczane instant;45.0;kg;5.0;/platki-gryczane-instant
+ZBOŻA;Płatki gryczane zwykłe;8.9;kg;1.0;/platki-gryczane-zwykle
+ZBOŻA;Płatki gryczane zwykłe;40.0;kg;5.0;/platki-gryczane-zwykle
+ZBOŻA;Płatki gryczane zwykłe BIO;13.9;kg;1.0;/platki-gryczane-zwykle-bio
+ZBOŻA;Płatki jaglane instant;10.5;kg;1.0;/platki-jaglane-instant
+ZBOŻA;Płatki jaglane instant;45.0;kg;5.0;/platki-jaglane-instant
+ZBOŻA;Płatki jaglane zwykłe;8.0;kg;1.0;/platki-jaglane-zwykle-2
+ZBOŻA;Płatki jaglane zwykłe;30.0;kg;5.0;/platki-jaglane-zwykle-2
+ZBOŻA;Płatki jęczmienne;4.0;kg;1.0;/platki-jeczmienne
+ZBOŻA;Płatki jęczmienne;16.0;kg;5.0;/platki-jeczmienne
+ZBOŻA;Ryż basmati;8.2;kg;1.0;/ryz-basmati
+ZBOŻA;Ryż basmati;37.5;kg;5.0;/ryz-basmati
+ZBOŻA;Ryż brązowy;6.5;kg;1.0;/ryz-brazowy
+ZBOŻA;Ryż brązowy;24.0;kg;5.0;/ryz-brazowy
+ZBOŻA;Ryż brązowy;47.0;kg;10.0;/ryz-brazowy
+ZBOŻA;Ryż czarny;15.2;kg;1.0;/ryz-czarny
+ZBOŻA;Ryż czarny;67.0;kg;5.0;/ryz-czarny
+ZBOŻA;Ryż czerwony;11.8;kg;1.0;/ryz-czerwony
+ZBOŻA;Ryż czerwony;45.0;kg;5.0;/ryz-czerwony
+ZBOŻA;Ryż do sushi PREMIUM;9.8;kg;1.0;/ryz-do-sushi-premium
+ZBOŻA;Ryż jaśminowy Tajski;7.95;kg;1.0;/ryz-jasminowy-tajski
+ZBOŻA;Ryż jaśminowy Tajski;32.5;kg;5.0;/ryz-jasminowy-tajski
+ZBOŻA;Ryż paraboliczny;6.2;kg;1.0;/ryz-paraboliczny
+ZBOŻA;Ryż paraboliczny;25.0;kg;5.0;/ryz-paraboliczny
+ZBOŻA;Ryż słodki 2,27kg;11.5;szt.;1.0;/ryz-slodki-2-27kg
+ZBOŻA;Semolina kaszka z pszenicy durum;5.5;kg;1.0;/semolina-kaszka-z-pszenicy-durum
+ZBOŻA;Semolina kaszka z pszenicy durum;25.0;kg;5.0;/semolina-kaszka-z-pszenicy-durum
+STRĄCZKOWE;Błonnik gryczany;19.5;kg;1.0;/blonnik-gryczany
+STRĄCZKOWE;Błonnik orkiszowy;20.0;kg;1.0;/blonnik-orkiszowy
+STRĄCZKOWE;Cieciorka groszek biały (Ciecierzyca);12.8;kg;1.0;/cieciorka-groszek-bialy-ciecierzyca
+STRĄCZKOWE;Cieciorka groszek biały (Ciecierzyca);57.5;kg;5.0;/cieciorka-groszek-bialy-ciecierzyca
+STRĄCZKOWE;Dynia łuskana (pestka dyni);17.8;kg;1.0;/dynia-luskana-pestka-dyni
+STRĄCZKOWE;Dynia łuskana (pestka dyni);70.0;kg;5.0;/dynia-luskana-pestka-dyni
+STRĄCZKOWE;Dynia łuskana (pestka dyni) Polska;13.0;kg;0.5;/dynia-luskana-pestka-dyni-polska
+STRĄCZKOWE;Dynia łuskana (pestka dyni) Polska;21.5;kg;1.0;/dynia-luskana-pestka-dyni-polska
+STRĄCZKOWE;Dynia łuskana (pestka dyni) Polska;98.0;kg;5.0;/dynia-luskana-pestka-dyni-polska
+STRĄCZKOWE;Dynia pestka w łupinie;12.0;kg;1.0;/dynia-pestka-w-lupinie
+STRĄCZKOWE;Dynia pestka w łupinie;55.0;kg;5.0;/dynia-pestka-w-lupinie
+STRĄCZKOWE;Fasola czarna drobna;10.5;kg;1.0;/fasola-czarna-drobna
+STRĄCZKOWE;Fasola czarna drobna;40.0;kg;5.0;/fasola-czarna-drobna
+STRĄCZKOWE;Fasola czarne oczko;10.8;kg;1.0;/fasola-czarne-oczko
+STRĄCZKOWE;Fasola czarne oczko;45.0;kg;5.0;/fasola-czarne-oczko
+STRĄCZKOWE;Fasola czerwona;11.0;kg;1.0;/fasola-czerwona
+STRĄCZKOWE;Fasola czerwona;45.0;kg;5.0;/fasola-czerwona
+STRĄCZKOWE;Fasola drobna Aura;10.0;kg;1.0;/fasola-drobna-aura
+STRĄCZKOWE;Fasola drobna Aura;42.5;kg;5.0;/fasola-drobna-aura
+STRĄCZKOWE;Fasola Jaś Karłowy;7.5;kg;1.0;/fasola-jas-karlowy
+STRĄCZKOWE;Fasola Jaś Karłowy;32.5;kg;5.0;/fasola-jas-karlowy
+STRĄCZKOWE;Fasola Jaś Tyczny;17.0;kg;1.0;/fasola-jas-tyczny
+STRĄCZKOWE;Fasola Jaś Tyczny;75.0;kg;5.0;/fasola-jas-tyczny
+STRĄCZKOWE;Fasola mung;12.9;kg;1.0;/fasola-mung
+STRĄCZKOWE;Fasola mung;55.0;kg;5.0;/fasola-mung
+STRĄCZKOWE;Fasola pinto;9.5;kg;1.0;/fasola-pinto
+STRĄCZKOWE;Fasola pinto;37.5;kg;5.0;/fasola-pinto
+STRĄCZKOWE;GORCZYCA BIAŁA;4.5;kg;0.5;/gorczyca-biala
+STRĄCZKOWE;GORCZYCA BIAŁA;7.5;kg;1.0;/gorczyca-biala
+STRĄCZKOWE;GORCZYCA BIAŁA;150.0;kg;25.0;/gorczyca-biala
+STRĄCZKOWE;GORCZYCA CZARNA;7.4;kg;1.0;/gorczyca-czarna
+STRĄCZKOWE;Groch łuskany;3.2;kg;1.0;/groch-luskany
+STRĄCZKOWE;Groch łuskany;12.5;kg;5.0;/groch-luskany
+STRĄCZKOWE;Groch ziarno;3.1;kg;1.0;/groch-ziarno
+STRĄCZKOWE;Groch ziarno;12.0;kg;5.0;/groch-ziarno
+STRĄCZKOWE;Groch zielony;4.3;kg;1.0;/groch-zielony
+STRĄCZKOWE;Mak niebieski Premium;12.0;kg;1.0;/mak-niebieski-premium
+STRĄCZKOWE;Mak niebieski Premium;50.0;kg;5.0;/mak-niebieski-premium
+STRĄCZKOWE;Nasiona amarantusa;12.0;kg;1.0;/nasiona-amarantusa-2
+STRĄCZKOWE;Nasiona amarantusa BIO;14.0;kg;1.0;/nasiona-amarantusa-bio
+STRĄCZKOWE;Nasiona amarantusa BIO;60.0;kg;5.0;/nasiona-amarantusa-bio
+STRĄCZKOWE;Nasiona konopi ziarno;8.5;kg;0.5;/nasiona-konopi-ziarno
+STRĄCZKOWE;Nasiona konopi ziarno;16.0;kg;1.0;/nasiona-konopi-ziarno
+STRĄCZKOWE;Ostropest plamisty;9.85;kg;1.0;/ostropest-plamisty
+STRĄCZKOWE;Ostropest plamisty;45.0;kg;5.0;/ostropest-plamisty
+STRĄCZKOWE;Ostropest plamisty mielony;9.85;kg;1.0;/ostropest-plamisty-mielony
+STRĄCZKOWE;Ostropest plamisty mielony;45.0;kg;5.0;/ostropest-plamisty-mielony
+STRĄCZKOWE;Proso;2.8;kg;1.0;/proso
+STRĄCZKOWE;Proso;12.5;kg;5.0;/proso
+STRĄCZKOWE;Proso;21.0;kg;10.0;/proso
+STRĄCZKOWE;Sezam czarny;17.9;kg;1.0;/sezam-czarny
+STRĄCZKOWE;Sezam czarny;77.5;kg;5.0;/sezam-czarny
+STRĄCZKOWE;Sezam naturalny;12.9;kg;1.0;/sezam-naturalny
+STRĄCZKOWE;Sezam naturalny;57.5;kg;5.0;/sezam-naturalny
+STRĄCZKOWE;Sezam obłuszczony PREMIUM;11.3;kg;1.0;/sezam-obluszczony-premium
+STRĄCZKOWE;Sezam obłuszczony PREMIUM;47.5;kg;5.0;/sezam-obluszczony-premium
+STRĄCZKOWE;Siemię lniane;4.6;kg;1.0;/siemie-lniane
+STRĄCZKOWE;Siemię lniane;19.5;kg;5.0;/siemie-lniane
+STRĄCZKOWE;Siemię lniane;37.0;kg;10.0;/siemie-lniane
+STRĄCZKOWE;Siemię lniane ZŁOTE;7.3;kg;1.0;/siemie-lniane-zlote
+STRĄCZKOWE;Siemię lniane ZŁOTE;28.0;kg;5.0;/siemie-lniane-zlote
+STRĄCZKOWE;Siemię lniane ZŁOTE;54.0;kg;10.0;/siemie-lniane-zlote
+STRĄCZKOWE;Siemię mielone;5.4;kg;1.0;/siemie-mielone
+STRĄCZKOWE;Siemię mielone;20.0;kg;5.0;/siemie-mielone
+STRĄCZKOWE;Słonecznik czarny drobny;3.4;kg;1.0;/slonecznik-czarny-drobny
+STRĄCZKOWE;Słonecznik czarny drobny;14.0;kg;5.0;/slonecznik-czarny-drobny
+STRĄCZKOWE;Słonecznik czarny gruby;6.8;kg;1.0;/slonecznik-czarny-gruby
+STRĄCZKOWE;Słonecznik czarny gruby;25.0;kg;5.0;/slonecznik-czarny-gruby
+STRĄCZKOWE;Słonecznik łuskany;3.6;kg;0.5;/slonecznik-luskany
+STRĄCZKOWE;Słonecznik łuskany;5.9;kg;1.0;/slonecznik-luskany
+STRĄCZKOWE;Słonecznik łuskany;26.0;kg;5.0;/slonecznik-luskany
+STRĄCZKOWE;Słonecznik łuskany;50.0;kg;10.0;/slonecznik-luskany
+STRĄCZKOWE;Słonecznik pasiak;6.0;kg;1.0;/slonecznik-pasiak
+STRĄCZKOWE;Słonecznik pasiak;25.0;kg;5.0;/slonecznik-pasiak
+STRĄCZKOWE;Soczewica czerwona;8.9;kg;1.0;/soczewica-czerwona
+STRĄCZKOWE;Soczewica czerwona;37.0;kg;5.0;/soczewica-czerwona
+STRĄCZKOWE;Soczewica czerwona;72.0;kg;10.0;/soczewica-czerwona
+STRĄCZKOWE;Soczewica zielona;8.9;kg;1.0;/soczewica-zielona
+STRĄCZKOWE;Soczewica zielona;35.0;kg;5.0;/soczewica-zielona
+STRĄCZKOWE;Soczewica żółta;42.5;kg;5.0;/soczewica-zolta
+STRĄCZKOWE;Soja;4.4;kg;1.0;/soja
+STRĄCZKOWE;Soja;19.0;kg;5.0;/soja
+STRĄCZKOWE;Soja;37.0;kg;10.0;/soja
+STRĄCZKOWE;Szałwia hiszpańska (Chia);7.0;kg;0.5;/szalwia-hiszpanska-chia
+STRĄCZKOWE;Szałwia hiszpańska (Chia);12.1;kg;1.0;/szalwia-hiszpanska-chia
+STRĄCZKOWE;Szałwia hiszpańska (Chia);55.0;kg;5.0;/szalwia-hiszpanska-chia
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - PERU;18.0;kg;0.2;/ziarno-kakaowca-surowe-peru
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - PERU;40.0;kg;0.5;/ziarno-kakaowca-surowe-peru
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - PERU;75.0;kg;1.0;/ziarno-kakaowca-surowe-peru
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - WYBRZEŻE KOŚCI SŁONIOWEJ;14.0;kg;0.2;/ziarno-kakaowca-surowe-wybrzeze-kosci-sloniowej
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - WYBRZEŻE KOŚCI SŁONIOWEJ;30.0;kg;0.5;/ziarno-kakaowca-surowe-wybrzeze-kosci-sloniowej
+STRĄCZKOWE;ZIARNO KAKAOWCA SUROWE - WYBRZEŻE KOŚCI SŁONIOWEJ;55.0;kg;1.0;/ziarno-kakaowca-surowe-wybrzeze-kosci-sloniowej
+STRĄCZKOWE;Ziarno kukurydzy (popcorn);5.9;kg;1.0;/ziarno-kukurydzy-popcorn
+STRĄCZKOWE;Ziarno kukurydzy (popcorn);25.0;kg;5.0;/ziarno-kukurydzy-popcorn
+STRĄCZKOWE;Ziarno kukurydzy smażone solone;13.3;kg;1.0;/ziarno-kukurydzy-smazone-solone
+STRĄCZKOWE;Ziarno orkiszu;10.0;kg;1.0;/ziarno-orkiszu
+STRĄCZKOWE;Ziarno orkiszu;40.0;kg;5.0;/ziarno-orkiszu
+PRZYPRAWY;Anyż gwiazdkowy;5.5;kg;0.1;/anyz-gwiazdkowy
+PRZYPRAWY;Anyż gwiazdkowy;22.5;kg;0.5;/anyz-gwiazdkowy
+PRZYPRAWY;Bazylia;2.4;kg;0.1;/bazylia
+PRZYPRAWY;Bazylia;8.0;kg;0.5;/bazylia
+PRZYPRAWY;Bazylia;14.2;kg;1.0;/bazylia
+PRZYPRAWY;Buraki suszone 100g;2.0;szt.;1.0;/buraki-suszone-100g
+PRZYPRAWY;Buraki suszone 100g;17.0;szt.;10.0;/buraki-suszone-100g
+PRZYPRAWY;CEBULA SMAŻONA 200g;3.25;szt.;1.0;/cebula-smazona-200g
+PRZYPRAWY;CEBULA SMAŻONA 200g;30.0;szt.;10.0;/cebula-smazona-200g
+PRZYPRAWY;CEBULA SMAŻONA 500g;6.5;szt.;1.0;/cebula-smazona-500g
+PRZYPRAWY;CEBULA SMAŻONA 500g;60.0;szt.;10.0;/cebula-smazona-500g
+PRZYPRAWY;Chilli;2.2;kg;0.1;/chilli
+PRZYPRAWY;Chilli;14.0;kg;1.0;/chilli
+PRZYPRAWY;Cukier wanilinowy;2.8;kg;0.1;/cukier-wanilinowy
+PRZYPRAWY;Cukier wanilinowy;5.5;kg;0.5;/cukier-wanilinowy
+PRZYPRAWY;Cukier wanilinowy;11.0;kg;1.0;/cukier-wanilinowy
+PRZYPRAWY;Cynamon laska 8cm;3.9;kg;0.1;/cynamon-laska-8cm
+PRZYPRAWY;Cynamon laska 8cm;17.0;kg;0.5;/cynamon-laska-8cm
+PRZYPRAWY;Cynamon laska 8cm;32.0;kg;1.0;/cynamon-laska-8cm
+PRZYPRAWY;Cynamon mielony;2.2;kg;0.1;/cynamon-mielony
+PRZYPRAWY;Cynamon mielony;8.0;kg;0.5;/cynamon-mielony
+PRZYPRAWY;Cynamon mielony;15.0;kg;1.0;/cynamon-mielony
+PRZYPRAWY;Czarnuszka;3.6;kg;0.1;/czarnuszka
+PRZYPRAWY;Czarnuszka;13.5;kg;0.5;/czarnuszka
+PRZYPRAWY;Czarnuszka;25.0;kg;1.0;/czarnuszka
+PRZYPRAWY;Czarnuszka;117.5;kg;5.0;/czarnuszka
+PRZYPRAWY;Cząber;3.3;kg;0.1;/czaber
+PRZYPRAWY;Cząber;15.5;kg;1.0;/czaber
+PRZYPRAWY;Czosnek granulowany;5.0;kg;0.1;/czosnek-granulowany
+PRZYPRAWY;Czosnek granulowany;41.0;kg;1.0;/czosnek-granulowany
+PRZYPRAWY;Czosnek mielony;3.3;kg;0.1;/czosnek-mielony
+PRZYPRAWY;Czosnek mielony;19.8;kg;1.0;/czosnek-mielony
+PRZYPRAWY;Czosnek suszony płatek;3.5;kg;0.1;/czosnek-suszony-platek
+PRZYPRAWY;Czosnek suszony płatek;28.0;kg;1.0;/czosnek-suszony-platek
+PRZYPRAWY;Czubryca czerwona;2.5;kg;0.1;/czubryca-czerwona
+PRZYPRAWY;Czubryca czerwona;10.0;kg;0.5;/czubryca-czerwona
+PRZYPRAWY;Czubryca czerwona;16.5;kg;1.0;/czubryca-czerwona
+PRZYPRAWY;Czystek susz;3.9;kg;0.1;/czystek-susz
+PRZYPRAWY;Czystek susz;14.4;kg;0.5;/czystek-susz
+PRZYPRAWY;Estragon;5.0;kg;0.1;/estragon
+PRZYPRAWY;Estragon;26.0;kg;1.0;/estragon
+PRZYPRAWY;Gałka muszkatołowa cała;15.0;kg;0.1;/galka-muszkatolowa-cala
+PRZYPRAWY;Gałka muszkatołowa cała;62.5;kg;0.5;/galka-muszkatolowa-cala
+PRZYPRAWY;Gałka muszkatołowa mielona;15.0;kg;0.1;/galka-muszkatolowa-mielona
+PRZYPRAWY;Gałka muszkatołowa mielona;100.0;kg;1.0;/galka-muszkatolowa-mielona
+PRZYPRAWY;Garam Masala;5.0;kg;0.1;/garam-masala
+PRZYPRAWY;Garam Masala;20.0;kg;1.0;/garam-masala
+PRZYPRAWY;Goździki całe;11.0;kg;0.1;/gozdziki-cale
+PRZYPRAWY;Goździki całe;88.0;kg;1.0;/gozdziki-cale
+PRZYPRAWY;Goździki mielone;8.5;kg;0.1;/gozdziki-mielone
+PRZYPRAWY;Goździki mielone;59.0;kg;1.0;/gozdziki-mielone
+PRZYPRAWY;Guarana mielona;23.5;kg;0.2;/guarana-mielona-2
+PRZYPRAWY;Hibiscus (hibiskus) płatek;3.3;kg;0.1;/hibiscus-hibiskus-platek
+PRZYPRAWY;Hibiscus (hibiskus) płatek;11.0;kg;0.5;/hibiscus-hibiskus-platek
+PRZYPRAWY;Hibiscus (hibiskus) płatek;20.0;kg;1.0;/hibiscus-hibiskus-platek
+PRZYPRAWY;Imbir kłącze;6.0;kg;0.1;/imbir-klacze
+PRZYPRAWY;Imbir kłącze;21.0;kg;0.5;/imbir-klacze
+PRZYPRAWY;Imbir mielony ..;3.9;kg;0.1;/imbir-mielony
+PRZYPRAWY;Imbir mielony ..;24.9;kg;1.0;/imbir-mielony
+PRZYPRAWY;Jałowiec mielony;3.8;kg;0.1;/jalowiec-mielony
+PRZYPRAWY;Jałowiec mielony;28.0;kg;1.0;/jalowiec-mielony
+PRZYPRAWY;Jałowiec owoc;3.8;kg;0.1;/jalowiec-owoc
+PRZYPRAWY;Jałowiec owoc;16.0;kg;0.5;/jalowiec-owoc
+PRZYPRAWY;Kardamon cały;9.8;kg;0.1;/kardamon-caly
+PRZYPRAWY;Kardamon cały;46.0;kg;0.5;/kardamon-caly
+PRZYPRAWY;Kardamon cały;90.0;kg;1.0;/kardamon-caly
+PRZYPRAWY;Kardamon mielony;9.8;kg;0.1;/kardamon-mielony
+PRZYPRAWY;Kardamon mielony;46.0;kg;0.5;/kardamon-mielony
+PRZYPRAWY;Kardamon mielony;90.0;kg;1.0;/kardamon-mielony
+PRZYPRAWY;Kmin rzymski camun cały;4.0;kg;0.1;/kmin-rzymski-camun-caly
+PRZYPRAWY;Kmin rzymski camun cały;25.0;kg;1.0;/kmin-rzymski-camun-caly
+PRZYPRAWY;Kmin rzymski camun mielony;4.0;kg;0.1;/kmin-rzymski-camun-mielony
+PRZYPRAWY;Kmin rzymski camun mielony;25.0;kg;1.0;/kmin-rzymski-camun-mielony
+PRZYPRAWY;Kminek mielony;2.8;kg;0.1;/kminek-mielony
+PRZYPRAWY;Kminek mielony;8.3;kg;0.5;/kminek-mielony
+PRZYPRAWY;Kminek mielony;14.5;kg;1.0;/kminek-mielony
+PRZYPRAWY;Kminek owoc/ziarno;3.2;kg;0.1;/kminek-owoc-ziarno
+PRZYPRAWY;Kminek owoc/ziarno;9.0;kg;0.5;/kminek-owoc-ziarno
+PRZYPRAWY;Kminek owoc/ziarno;16.0;kg;1.0;/kminek-owoc-ziarno
+PRZYPRAWY;Kolendra mielona;2.0;kg;0.1;/kolendra-mielona
+PRZYPRAWY;Kolendra mielona;7.0;kg;0.5;/kolendra-mielona
+PRZYPRAWY;Kolendra mielona;12.0;kg;1.0;/kolendra-mielona
+PRZYPRAWY;Kolendra owoc/ziarno;2.0;kg;0.1;/kolendra-owoc-ziarno
+PRZYPRAWY;Kolendra owoc/ziarno;7.0;kg;0.5;/kolendra-owoc-ziarno
+PRZYPRAWY;Kolendra owoc/ziarno;12.0;kg;1.0;/kolendra-owoc-ziarno
+PRZYPRAWY;Koperek suszony;6.5;kg;0.1;/koperek-suszony
+PRZYPRAWY;Koperek suszony;19.89;kg;0.5;/koperek-suszony
+PRZYPRAWY;Koperek suszony;37.89;kg;1.0;/koperek-suszony
+PRZYPRAWY;Koperek suszony 20g;1.9;szt.;1.0;/koperek-suszony-20g
+PRZYPRAWY;Koperek suszony 20g;14.7;szt.;10.0;/koperek-suszony-20g
+PRZYPRAWY;Kozieradka cała;4.0;kg;0.1;/kozieradka-cala
+PRZYPRAWY;Kozieradka cała;20.0;kg;1.0;/kozieradka-cala
+PRZYPRAWY;Kozieradka mielona;3.0;kg;0.1;/kozieradka-mielona
+PRZYPRAWY;Kozieradka mielona;11.0;kg;1.0;/kozieradka-mielona
+PRZYPRAWY;Kurkuma mielona;2.9;kg;0.1;/kurkuma-mielona
+PRZYPRAWY;Kurkuma mielona;11.0;kg;0.5;/kurkuma-mielona
+PRZYPRAWY;Kurkuma mielona;19.8;kg;1.0;/kurkuma-mielona
+PRZYPRAWY;Kwasek cytrynowy;2.5;kg;0.1;/kwasek-cytrynowy
+PRZYPRAWY;Kwasek cytrynowy;11.99;kg;1.0;/kwasek-cytrynowy
+PRZYPRAWY;Lapacho;7.5;kg;0.1;/lapacho
+PRZYPRAWY;Lapacho;30.0;kg;0.5;/lapacho
+PRZYPRAWY;Laska wanilii. Indonezja;3.98;szt.;1.0;/laska-wanilii-indonezja
+PRZYPRAWY;Laska wanilii. Madagaskar bardzo grube;7.9;szt.;1.0;/laska-wanilii-madagaskar-bardzo-grube
+PRZYPRAWY;Liść laurowy;5.0;kg;0.1;/lisc-laurowy
+PRZYPRAWY;Liść laurowy;15.0;kg;0.5;/lisc-laurowy
+PRZYPRAWY;Liść laurowy;28.0;kg;1.0;/lisc-laurowy
+PRZYPRAWY;Lubczyk ziele (nać);4.0;kg;0.1;/lubczyk-ziele-nac
+PRZYPRAWY;Lubczyk ziele (nać);15.5;kg;0.5;/lubczyk-ziele-nac
+PRZYPRAWY;Lubczyk ziele (nać);31.0;kg;1.0;/lubczyk-ziele-nac
+PRZYPRAWY;Majeranek;2.0;kg;0.1;/majeranek
+PRZYPRAWY;Majeranek;9.0;kg;0.5;/majeranek
+PRZYPRAWY;Majeranek;17.5;kg;1.0;/majeranek
+PRZYPRAWY;Melisa;6.0;kg;0.1;/melisa
+PRZYPRAWY;Melisa;29.0;kg;1.0;/melisa
+PRZYPRAWY;Mięta;3.5;kg;0.1;/mieta
+PRZYPRAWY;Mięta;23.0;kg;1.0;/mieta
+PRZYPRAWY;Oregano;3.0;kg;0.1;/oregano
+PRZYPRAWY;Oregano;8.5;kg;0.5;/oregano
+PRZYPRAWY;Oregano;16.0;kg;1.0;/oregano
+PRZYPRAWY;Papryka czerwona płatki;4.5;kg;0.1;/papryka-czerwona-platki
+PRZYPRAWY;Papryka czerwona płatki;16.0;kg;0.5;/papryka-czerwona-platki
+PRZYPRAWY;Papryka czerwona płatki;31.0;kg;1.0;/papryka-czerwona-platki
+PRZYPRAWY;Papryka ostra;2.8;kg;0.1;/papryka-ostra
+PRZYPRAWY;Papryka ostra;17.0;kg;1.0;/papryka-ostra
+PRZYPRAWY;Papryka słodka;2.5;kg;0.1;/papryka-slodka
+PRZYPRAWY;Papryka słodka;16.0;kg;1.0;/papryka-slodka
+PRZYPRAWY;Papryka wędzona ostra;5.8;kg;0.1;/papryka-wedzona-ostra
+PRZYPRAWY;Papryka wędzona ostra;24.0;kg;0.5;/papryka-wedzona-ostra
+PRZYPRAWY;Papryka wędzona słodka;5.8;kg;0.1;/papryka-wedzona-slodka
+PRZYPRAWY;Papryka wędzona słodka;24.0;kg;0.5;/papryka-wedzona-slodka
+PRZYPRAWY;Papryka zielona płatki;5.0;kg;0.1;/papryka-zielona-platki
+PRZYPRAWY;Papryka zielona płatki;18.0;kg;0.5;/papryka-zielona-platki
+PRZYPRAWY;Papryka zielona płatki;35.0;kg;1.0;/papryka-zielona-platki
+PRZYPRAWY;Pieprz biały mielony;8.5;kg;0.1;/pieprz-bialy-mielony
+PRZYPRAWY;Pieprz biały mielony;68.0;kg;1.0;/pieprz-bialy-mielony
+PRZYPRAWY;Pieprz biały ziarnisty;10.0;kg;0.1;/pieprz-bialy-ziarnisty
+PRZYPRAWY;Pieprz biały ziarnisty;85.0;kg;1.0;/pieprz-bialy-ziarnisty
+PRZYPRAWY;Pieprz cayenne;4.0;kg;0.1;/pieprz-cayenne
+PRZYPRAWY;Pieprz cayenne;21.0;kg;1.0;/pieprz-cayenne
+PRZYPRAWY;Pieprz cytrynowy;2.9;kg;0.1;/pieprz-cytrynowy
+PRZYPRAWY;Pieprz cytrynowy;20.0;kg;1.0;/pieprz-cytrynowy
+PRZYPRAWY;Pieprz czarny mielony;6.0;kg;0.1;/pieprz-czarny-mielony
+PRZYPRAWY;Pieprz czarny mielony;50.0;kg;1.0;/pieprz-czarny-mielony
+PRZYPRAWY;Pieprz czarny ziarno;6.9;kg;0.1;/pieprz-czarny-ziarno
+PRZYPRAWY;Pieprz czarny ziarno;59.9;kg;1.0;/pieprz-czarny-ziarno
+PRZYPRAWY;Pieprz czerwony;11.5;kg;0.1;/pieprz-czerwony
+PRZYPRAWY;Pieprz czerwony;95.0;kg;1.0;/pieprz-czerwony
+PRZYPRAWY;Pieprz kolorowy ziarnisty;8.9;kg;0.1;/pieprz-kolorowy-ziarnisty
+PRZYPRAWY;Pieprz kolorowy ziarnisty;42.5;kg;0.5;/pieprz-kolorowy-ziarnisty
+PRZYPRAWY;Pieprz kolorowy ziarnisty;82.0;kg;1.0;/pieprz-kolorowy-ziarnisty
+PRZYPRAWY;Pieprz zielony;10.0;kg;0.1;/pieprz-zielony
+PRZYPRAWY;Pieprz zielony;85.0;kg;1.0;/pieprz-zielony
+PRZYPRAWY;Pieprz ziołowy;2.4;kg;0.1;/pieprz-ziolowy
+PRZYPRAWY;Pieprz ziołowy;9.0;kg;1.0;/pieprz-ziolowy
+PRZYPRAWY;Pietruszka nać;2.9;kg;0.1;/pietruszka-nac
+PRZYPRAWY;Pietruszka nać;10.89;kg;0.5;/pietruszka-nac
+PRZYPRAWY;Pietruszka nać;19.89;kg;1.0;/pietruszka-nac
+PRZYPRAWY;Pietruszka suszona 15g;1.75;szt.;1.0;/pietruszka-suszona-15g
+PRZYPRAWY;Pietruszka suszona 15g;14.0;szt.;10.0;/pietruszka-suszona-15g
+PRZYPRAWY;Płatki róży;14.9;kg;0.1;/platki-rozy
+PRZYPRAWY;Pomidor mielony;4.0;kg;0.1;/pomidor-mielony
+PRZYPRAWY;Pomidor mielony;18.0;kg;0.5;/pomidor-mielony
+PRZYPRAWY;POMIDORY SUSZONE PLASTRY BEZ KONSERWANTÓW - POLSKIE;9.0;kg;0.1;/pomidory-suszone-plastry-bez-konserwantow-polskie
+PRZYPRAWY;POMIDORY SUSZONE PLASTRY BEZ KONSERWANTÓW - POLSKIE;15.9;kg;0.2;/pomidory-suszone-plastry-bez-konserwantow-polskie
+PRZYPRAWY;POMIDORY SUSZONE PLASTRY BEZ KONSERWANTÓW - POLSKIE;38.0;kg;0.5;/pomidory-suszone-plastry-bez-konserwantow-polskie
+PRZYPRAWY;POMIDORY SUSZONE POŁÓWKI;16.0;kg;0.5;/pomidory-suszone-polowki
+PRZYPRAWY;POMIDORY SUSZONE POŁÓWKI;30.0;kg;1.0;/pomidory-suszone-polowki
+PRZYPRAWY;POMIDORY SUSZONE POŁÓWKI;135.0;kg;5.0;/pomidory-suszone-polowki
+PRZYPRAWY;Proszek do pieczenia;2.1;kg;0.1;/proszek-do-pieczenia
+PRZYPRAWY;Proszek do pieczenia;9.0;kg;1.0;/proszek-do-pieczenia
+PRZYPRAWY;Przyprawa arabska;2.9;kg;0.1;/przyprawa-arabska
+PRZYPRAWY;Przyprawa arabska;10.0;kg;0.5;/przyprawa-arabska
+PRZYPRAWY;Przyprawa barbecue;2.9;kg;0.1;/przyprawa-barbecue
+PRZYPRAWY;Przyprawa barbecue;10.0;kg;0.5;/przyprawa-barbecue
+PRZYPRAWY;Przyprawa chińska;2.6;kg;0.1;/przyprawa-chinska
+PRZYPRAWY;Przyprawa chińska;20.0;kg;1.0;/przyprawa-chinska
+PRZYPRAWY;Przyprawa curry;2.9;kg;0.1;/przyprawa-curry
+PRZYPRAWY;Przyprawa curry;14.0;kg;1.0;/przyprawa-curry
+PRZYPRAWY;Przyprawa cygańska;2.9;kg;0.1;/przyprawa-cyganska
+PRZYPRAWY;Przyprawa cygańska;10.0;kg;0.5;/przyprawa-cyganska
+PRZYPRAWY;Przyprawa do bigosu;2.4;kg;0.1;/przyprawa-do-bigosu
+PRZYPRAWY;Przyprawa do bigosu;14.0;kg;1.0;/przyprawa-do-bigosu
+PRZYPRAWY;Przyprawa do flaków;2.4;kg;0.1;/przyprawa-do-flakow
+PRZYPRAWY;Przyprawa do flaków;16.0;kg;1.0;/przyprawa-do-flakow
+PRZYPRAWY;Przyprawa do grilla;2.4;kg;0.1;/przyprawa-do-grilla
+PRZYPRAWY;Przyprawa do grilla;14.0;kg;1.0;/przyprawa-do-grilla
+PRZYPRAWY;Przyprawa do gulaszu;2.4;kg;0.1;/przyprawa-do-gulaszu
+PRZYPRAWY;Przyprawa do gulaszu;14.0;kg;1.0;/przyprawa-do-gulaszu
+PRZYPRAWY;Przyprawa do gyrosa;2.9;kg;0.1;/przyprawa-do-gyrosa
+PRZYPRAWY;Przyprawa do gyrosa;18.0;kg;1.0;/przyprawa-do-gyrosa
+PRZYPRAWY;Przyprawa do kurczaka "Złocisty kurczak";2.5;kg;0.1;/przyprawa-do-kurczaka-zlocisty-kurczak
+PRZYPRAWY;Przyprawa do kurczaka "Złocisty kurczak";17.4;kg;1.0;/przyprawa-do-kurczaka-zlocisty-kurczak
+PRZYPRAWY;Przyprawa do kwaszenia ogórków 45g;1.5;szt.;1.0;/przyprawa-do-kwaszenia-ogorkow-45g
+PRZYPRAWY;Przyprawa do kwaszenia ogórków 45g;13.0;szt.;10.0;/przyprawa-do-kwaszenia-ogorkow-45g
+PRZYPRAWY;Przyprawa do mięsa mielonego;2.4;kg;0.1;/przyprawa-do-miesa-mielonego-3
+PRZYPRAWY;Przyprawa do mięsa mielonego;16.0;kg;1.0;/przyprawa-do-miesa-mielonego-3
+PRZYPRAWY;Przyprawa do mięsa pieczonego;3.0;kg;0.1;/przyprawa-do-miesa-pieczonego
+PRZYPRAWY;Przyprawa do mięsa pieczonego;15.0;kg;1.0;/przyprawa-do-miesa-pieczonego
+PRZYPRAWY;Przyprawa do pizzy;2.8;kg;0.1;/przyprawa-do-pizzy
+PRZYPRAWY;Przyprawa do pizzy;16.0;kg;1.0;/przyprawa-do-pizzy
+PRZYPRAWY;Przyprawa do ryb;2.4;kg;0.1;/przyprawa-do-ryb
+PRZYPRAWY;Przyprawa do ryb;14.0;kg;1.0;/przyprawa-do-ryb
+PRZYPRAWY;Przyprawa do shoarmy;3.2;kg;0.1;/przyprawa-do-shoarmy
+PRZYPRAWY;Przyprawa do shoarmy;11.0;kg;0.5;/przyprawa-do-shoarmy
+PRZYPRAWY;Włoszczyzna suszona;13.5;kg;1.0;/wloszczyzna-suszona
+PRZYPRAWY;Włoszczyzna suszona;52.0;kg;5.0;/wloszczyzna-suszona
+PRZYPRAWY;Włoszczyzna suszona 100g;2.2;szt.;1.0;/wloszczyzna-suszona-100g
+PRZYPRAWY;Włoszczyzna suszona 100g;18.5;szt.;10.0;/wloszczyzna-suszona-100g
+PRZYPRAWY;Ziele angielskie;3.9;kg;0.1;/ziele-angielskie
+PRZYPRAWY;Ziele angielskie;15.0;kg;0.5;/ziele-angielskie
+PRZYPRAWY;Ziele angielskie;28.0;kg;1.0;/ziele-angielskie
+PRZYPRAWY;Ziele angielskie mielone ..;3.3;kg;0.1;/ziele-angielskie-mielone
+PRZYPRAWY;Ziele angielskie mielone ..;25.0;kg;1.0;/ziele-angielskie-mielone
+PRZYPRAWY;Zioła prowansalskie;2.9;kg;0.1;/ziola-prowansalskie
+PRZYPRAWY;Zioła prowansalskie;9.0;kg;0.5;/ziola-prowansalskie
+PRZYPRAWY;Zioła prowansalskie;16.5;kg;1.0;/ziola-prowansalskie
+PRZYPRAWY;Żelatyna spożywcza;4.5;kg;0.1;/zelatyna-spozywcza
+PRZYPRAWY;Żelatyna spożywcza;28.2;kg;1.0;/zelatyna-spozywcza
+PRZYPRAWY;Żeń-szeń korzeń krojony;19.5;kg;0.2;/zen-szen-korzen-krojony
+INNE;AGAR kokosowy 450g;9.7;szt.;1.0;/agar-kokosowy-450g
+INNE;Agrest w czekoladzie;7.5;kg;0.2;/agrest-w-czekoladzie
+INNE;Agrest w czekoladzie;14.0;kg;0.5;/agrest-w-czekoladzie
+INNE;Amerykańska żurawina do mięsa 220g;8.4;szt.;1.0;/amerykanska-zurawina-do-miesa-220g
+INNE;Anchois filet w oliwie 80g;10.0;szt.;1.0;/anchois-filet-w-oliwie-80g
+INNE;Aronia w czekoladzie;7.5;kg;0.2;/aronia-w-czekoladzie
+INNE;Aronia w czekoladzie;25.5;kg;1.0;/aronia-w-czekoladzie
+INNE;Babka jajowata;9.0;kg;0.5;/babka-jajowata
+INNE;Babka jajowata;17.5;kg;1.0;/babka-jajowata
+INNE;Babka jajowata nasiona mielone;9.5;kg;0.2;/babka-jajowata-nasiona-mielone
+INNE;Babka jajowata nasiona mielone;37.0;kg;1.0;/babka-jajowata-nasiona-mielone
+INNE;Babka płesznik;13.0;kg;0.5;/babka-plesznik
+INNE;Babka płesznik;19.5;kg;1.0;/babka-plesznik
+INNE;Babka płesznik;89.0;kg;5.0;/babka-plesznik
+INNE;BAKALIOWY KUFEREK;76.0;szt.;1.0;/bakaliowy-kuferek
+INNE;Banany suszone bez cukru;27.5;kg;0.5;/banany-suszone-bez-cukru
+INNE;Baton Aloha;5.9;szt.;1.0;/baton-aloha
+INNE;Baton Kosmos;6.0;szt.;1.0;/baton-kosmos
+INNE;Baton Lewy Sierpowy;5.9;szt.;1.0;/baton-lewy-sierpowy
+INNE;Baton Petarda;7.2;szt.;1.0;/baton-petarda
+INNE;Baton urwis bananowy;4.3;szt.;1.0;/baton-urwis-bananowy
+INNE;Baton urwis jabłkowy;4.3;szt.;1.0;/baton-urwis-jablkowy
+INNE;BIAŁY OCET WINNY 1000ML;10.5;szt.;1.0;/bialy-ocet-winny-1000ml
+INNE;Canihua BIO 500 g;28.9;szt.;1.0;/canihua-bio-500-g
+INNE;Canihua puffed (dmuchana) BIO 200 g;23.0;szt.;1.0;/canihua-puffed-dmuchana-bio-200-g
+INNE;Chipsy bananowe ryflowane;6.0;kg;0.2;/chipsy-bananowe-ryflowane
+INNE;Chipsy bananowe ryflowane;16.0;kg;1.0;/chipsy-bananowe-ryflowane
+INNE;Chipsy kokosowe BIO;7.4;kg;0.2;/chipsy-kokosowe-bio
+INNE;Chipsy kokosowe BIO;24.0;kg;1.0;/chipsy-kokosowe-bio
+INNE;Chipsy krewetkowe 1kg;15.9;kg;1.0;/chipsy-krewetkowe-1kg
+INNE;Chlebowiec w syropie;10.0;szt.;1.0;/chlebowiec-w-syropie
+INNE;Chlorella proszek;30.0;kg;0.2;/chlorella-proszek
+INNE;Chlorella proszek;60.0;kg;0.5;/chlorella-proszek
+INNE;Chlorella tabletki;30.0;kg;0.2;/chlorella-tabletki
+INNE;Chlorella tabletki;60.0;kg;0.5;/chlorella-tabletki
+INNE;Cukier kokosowy palmowy;23.9;kg;1.0;/cukier-kokosowy-palmowy
+INNE;Cukier trzcinowy fine;6.9;kg;1.0;/cukier-trzcinowy-fine
+INNE;Cukier trzcinowy fine;32.5;kg;5.0;/cukier-trzcinowy-fine
+INNE;Cukier z agawy ekologiczny;25.0;kg;0.5;/cukier-z-agawy-ekologiczny
+INNE;Cukier z agawy ekologiczny;47.0;kg;1.0;/cukier-z-agawy-ekologiczny
+INNE;CZERWONY OCET WINNY 1000ML;10.5;szt.;1.0;/czerwony-ocet-winny-1000ml
+INNE;Dżem z chilli 250g;22.0;szt.;1.0;/dzem-z-chilli-250g
+INNE;Ekologiczny olej arganowy 100ml;38.0;szt.;1.0;/ekologiczny-olej-arganowy-100ml
+INNE;ERYTRYTOL;12.85;kg;0.5;/erytol
+INNE;ERYTRYTOL;20.9;kg;1.0;/erytol
+INNE;Filet z tuńczyka w oliwie z oliwek 150g;13.9;szt.;1.0;/filet-z-tunczyka-w-oliwie-z-oliwek-150g
+INNE;Filet z tuńczyka w puszce 100g;8.0;szt.;1.0;/filet-z-tunczyka-w-puszce-100g
+INNE;Filet z tuńczyka w zalewie 150g;13.9;szt.;1.0;/filet-z-tunczyka-w-zalewie-150g
+INNE;Fruktoza krystaliczna;9.9;kg;1.0;/fruktoza-krystaliczna
+INNE;Fruktoza krystaliczna;45.0;kg;5.0;/fruktoza-krystaliczna
+INNE;Grzyby słomiane całe;7.95;szt.;1.0;/grzyby-slomiane-cale
+INNE;Herbata 50 TWARZY EARL GREYA;8.39;kg;0.1;/herbata-50-twarzy-earl-greya
+INNE;Herbata AFRODYTA;9.23;kg;0.1;/herbata-afrodyta
+INNE;Herbata AMARANTOWE NIEBO;10.08;kg;0.1;/herbata-amarantowe-niebo
+INNE;Herbata ANANASOWA;8.39;kg;0.1;/herbata-ananasowa
+INNE;Herbata ANTONÓWKA OWOCOWA;9.44;kg;0.1;/herbata-antonowka-owocowa
+INNE;Herbata ASSAM GTGFOP-1 DIKOM;14.88;kg;0.1;/herbata-assam-gtgfop-1-dikom
+INNE;Herbata BANANA ISLAND;9.04;kg;0.1;/herbata-banana-island
+INNE;Herbata BANANANZA;8.39;kg;0.1;/herbata-banananza
+INNE;Herbata BIAŁE ZŁOTO;16.91;kg;0.1;/herbata-biale-zloto
+INNE;Herbata BLUE BAY;9.23;kg;0.1;/herbata-blue-bay
+INNE;Herbata BRATERSKI SZNAPSIK;8.81;kg;0.1;/herbata-braterski-sznapsik
+INNE;Herbata CEYLON OP1 - BLACK TEA STANDARD;7.79;kg;0.1;/herbata-ceylon-op1-black-tea-standard
+INNE;Herbata CHATA Z PIERNIKA;9.02;kg;0.1;/herbata-chata-z-piernika
+INNE;Herbata CHINA BLACK BALL TEA;2.99;szt.;1.0;/herbata-china-black-ball-tea
+INNE;Herbata CHINA CHUN MEE MOON PALACE;11.27;kg;0.1;/herbata-china-chun-mee-moon-palace
+INNE;Herbata CHINA GOLD INGOT;2.99;szt.;1.0;/herbata-china-gold-ingot
+INNE;Herbata CHINA GOLDEN MONKEY;20.3;kg;0.1;/herbata-china-golden-monkey
+INNE;Herbata CHINA GOLDEN SCREW TIPPY;24.61;kg;0.1;/herbata-china-golden-screw-tippy
+INNE;Herbata CHINA GREEN CALABASH;3.53;szt.;1.0;/herbata-china-green-calabash
+INNE;Herbata CHINA GREEN LILLY FAIRY;3.2;szt.;1.0;/herbata-china-green-lilly-fairy
+INNE;Herbata CHINA GREEN NEEDLE Q.T.;20.26;kg;0.1;/herbata-china-green-needle-q-t
+INNE;Herbata CHINA GUNPOWDER "TEMPLE OF HEAVEN" SUPERIOR;7.14;kg;0.1;/herbata-china-gunpowder-temple-of-heaven-superior
+INNE;Herbata CHINA GYOKURO GREEN TEA;25.5;kg;0.1;/herbata-china-gyokuro-green-tea
+INNE;Herbata CHINA LAPSANG SOUCHONG;10.69;kg;0.1;/herbata-china-lapsang-souchong
+INNE;Herbata CHINA LONG ZHU WHITE;34.85;kg;0.1;/herbata-china-long-zhu-white
+INNE;Herbata CHINA LUNG CHING;29.68;kg;0.1;/herbata-china-lung-ching
+INNE;Herbata CHINA MAO FENG JUNN TEA;17.14;kg;0.1;/herbata-china-mao-feng-junn-tea
+INNE;Herbata CHINA RED MU DAN TEA;7.14;kg;0.1;/herbata-china-red-mu-dan-tea
+INNE;Herbata CHINA SENCHA;6.94;kg;0.1;/herbata-china-sencha
+INNE;Herbata CHINA SPECIAL GREEN NEEDLE;17.52;kg;0.1;/herbata-china-special-green-needle
+INNE;Herbata CHINA WHITE MONKEY;23.22;kg;0.1;/herbata-china-white-monkey
+INNE;Herbata CHINA YUNNAN BLACK OP;5.82;kg;0.1;/herbata-china-yunnan-black-op
+INNE;Herbata CHINA YUNNAN GREEN DYNASTY;15.91;kg;0.1;/herbata-china-yunnan-green-dynasty
+INNE;Herbata CINI-MINIS;8.39;kg;0.1;/herbata-cini-minis
+INNE;Herbata CITRUS GRASS;8.81;kg;0.1;/herbata-citrus-grass
+INNE;Herbata COPACABANA;8.41;kg;0.1;/herbata-copacabana
+INNE;Herbata CREAM STRAWBERRY;9.23;kg;0.1;/herbata-cream-strawberry
+INNE;Herbata CYTRUS MIX;8.39;kg;0.1;/herbata-cytrus-mix
+INNE;Herbata CYTRUSOWE CHILLI;9.02;kg;0.1;/herbata-cytrusowe-chilli
+INNE;Herbata CYTRUSOWY IMBIR;9.23;kg;0.1;/herbata-cytrusowy-imbir
+INNE;Herbata CYTRYNA W RUMIE;8.39;kg;0.1;/herbata-cytryna-w-rumie
+INNE;Herbata czarna granulowana;2.0;kg;0.1;/herbata-czarna-granulowana
+INNE;Herbata czarna granulowana;12.0;kg;1.0;/herbata-czarna-granulowana
+INNE;Herbata CZARNA PORZECZKA;9.02;kg;0.1;/herbata-czarna-porzeczka
+INNE;Herbata CZARNA RÓŻA;9.23;kg;0.1;/herbata-czarna-roza
+INNE;Herbata CZARNA WIŚNIA;9.02;kg;0.1;/herbata-czarna-wisnia
+INNE;Herbata CZERWONY GRAPEFRUIT;8.62;kg;0.1;/herbata-czerwony-grapefruit
+INNE;Herbata DARJEELING FIRST FLUSH FTGFOP-1;20.08;kg;0.1;/herbata-darjeeling-first-flush-ftgfop-1
+INNE;Syrop z wiśni 280ml - bez konserwantów;8.8;szt.;1.0;/syrop-z-wisni-280ml-bez-konserwantow
+INNE;Śliwiec słodko kwaśny 850g;16.0;szt.;1.0;/sliwiec-slodko-kwasny-850g
+INNE;WALIZECZKA SOSÓW MAMA AFRICA'S 4X125 ML;49.0;szt.;1.0;/walizeczka-sosow-mama-africa-s-4x125-ml
+INNE;Wiśnie w czekoladzie;11.5;kg;0.2;/wisnie-w-czekoladzie
+INNE;Woda kokosowa 500 ml;8.5;szt.;1.0;/woda-kokosowa-500-ml
+INNE;WORECZKI DOYPACK 110/65/185;4.5;szt.;10.0;/woreczki-doypack-110-65-185
+INNE;WORECZKI DOYPACK 130/70/225;4.5;szt.;10.0;/woreczki-doypack-130-70-225
+INNE;WORECZKI DOYPACK 160/80/270;5.5;szt.;10.0;/woreczki-doypack-160-80-270
+INNE;WORECZKI DOYPACK 180/90/290;5.5;szt.;10.0;/woreczki-doypack-180-90-290
+INNE;Zioła szwedzkie;15.0;kg;0.1;/ziola-szwedzkie
+INNE;Zioła szwedzkie;120.0;kg;1.0;/ziola-szwedzkie
+INNE;Żurawina w czekoladzie;7.5;kg;0.2;/zurawina-w-czekoladzie
+INNE;Żurawina w czekoladzie;25.5;kg;1.0;/zurawina-w-czekoladzie
