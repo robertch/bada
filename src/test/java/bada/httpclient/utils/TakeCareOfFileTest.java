@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import bada.httpclient.Link;
+import bada.httpclient.model.Link;
 import junit.framework.TestCase;
 
 public class TakeCareOfFileTest extends TestCase {
@@ -16,9 +16,9 @@ public class TakeCareOfFileTest extends TestCase {
 	protected void setUp() throws Exception {
 		super.setUp();
 		list = new ArrayList<Link>();
-		list.add(new Link("cebule", "/cebula"));
-		list.add(new Link("marchewka","/marchewka"));
-		list.add(new Link("ziemniaki","/ziemniaki"));
+		list.add(new Link("cebule", "/cebula",""));
+		list.add(new Link("marchewka","/marchewka",""));
+		list.add(new Link("ziemniaki","/ziemniaki",""));
 	}
 	
 	@Test

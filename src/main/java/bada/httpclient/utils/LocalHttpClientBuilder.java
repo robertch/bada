@@ -1,4 +1,4 @@
-package bada.httpclient;
+package bada.httpclient.utils;
 
 import java.io.IOException;
 
@@ -18,6 +18,7 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.util.EntityUtils;
 
 import bada.httpclient.conf.Configuration;
+import bada.httpclient.conf.HTProxy;
 
 public class LocalHttpClientBuilder {
 	
@@ -64,10 +65,8 @@ public class LocalHttpClientBuilder {
 				}
 			}
 		};
-		System.out.println("Executing request " + httpget.getRequestLine());
-
 		System.out.println("---------<>>>>>>>>>>>>>");
-
+		System.out.println("Executing request " + httpget.getRequestLine());
 		try {
 			html = l_client.execute(httpget, responseHandler);
 		} catch (ClientProtocolException e) {
